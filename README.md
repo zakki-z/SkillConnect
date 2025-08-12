@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support and questions, please create an issue in the repository or contact the development team.
+For support and questions, please create an issue in the repository or contact me at zakariaeazhari@proton.me.
 
 ---
 
