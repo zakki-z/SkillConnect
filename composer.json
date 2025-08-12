@@ -1,0 +1,19 @@
+{
+    "name": "eheio/ig4",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ImahrainMed",
+            "email": "mohammedimahrain@hotmail.com"
+        }
+    ],
+    "require": {
+      "ext-mysqli": "*",
+      "ext-pdo": "*"
+    }
+}
