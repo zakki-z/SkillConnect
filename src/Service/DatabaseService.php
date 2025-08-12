@@ -8,7 +8,7 @@ class DatabaseService {
 
     public static function getConnection() {
         if (self::$pdo === null) {
-            self::$pdo = new PDO('pgsql:host=localhost;port=5432;dbname=freelancedb', 'zakiazhari', '', [
+            self::$pdo = new PDO('pgsql:host=localhost;port=5432;dbname=your_db_name', 'your_db_username', 'your_db_password', [
                 PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
             ]);
         }
